@@ -1,0 +1,3 @@
+# Rase Studios website: everything is public, nothing is tracked.
+User-agent: *
+Allow: /

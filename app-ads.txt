@@ -1,0 +1,3 @@
+# app-ads.txt for Rase Studios (developer website of Word Kingdom: Solitaire)
+# https://rasestudios.github.io/app-ads.txt
+google.com, pub-1377104215315336, DIRECT, f08c47fec0942fa0
